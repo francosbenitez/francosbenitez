@@ -6,4 +6,4 @@
 
 📩 Para saber más acerca de mí, puedes visitar [mi sitio web](http://francosbenitez.netlify.app).  
 
-Hi, nice to meet you! I'm a senior at Rice University, where I study social policy analysis. There, I spend my time on data science (R), visualization (D3), and civic tech.
+
