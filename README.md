@@ -2,7 +2,7 @@
 
 📈 Tempranamente, mi interés por la psicología científica me llevó a interesarme por la estadística, la metodología y la programación. 
 
-💻 En este GitHub estaré compartiendo el código de mis proyectos realizados, principalmente, en R.  
+💻 En este GitHub, estaré compartiendo el código de mis proyectos realizados, principalmente, en R.  
 
 😀 Para saber más acerca de mí, puedes visitar [mi sitio web](http://francosbenitez.netlify.app).  
 
