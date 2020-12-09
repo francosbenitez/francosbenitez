@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy un estudiante de psicología de la Universidad de Buenos Aires (UBA).
+👋 ¡Hola! Soy estudiante de psicología de la Universidad de Buenos Aires (UBA).
 
 😄 Mi interés por la psicología científica me llevó a interesarme por la estadística, la metodología y la programación. 
 
