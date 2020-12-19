@@ -6,6 +6,8 @@
 
 😀 Si quieres saber más acerca de mí, puedes visitar [mi sitio web](http://francosbenitez.netlify.app).  
 
+⬇️ Mis estadísticas de GitHub.
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=francosbenitez&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
