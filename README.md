@@ -1,4 +1,4 @@
-👋 Hi! I'm Franco, an undergraduate psychology student at University of Buenos Aires (UBA).
+👋 Hi! I'm Franco, a psychology student at University of Buenos Aires (UBA).
 
 📈 Early, my interest toward psychological science brought me to be interested in statistics, methodology, and programming. 
 
