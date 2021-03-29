@@ -11,5 +11,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-GREEN?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&link=https://github.com/francosbenitez/)
 ![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js&link=https://github.com/francosbenitez/)
+![D3](https://img.shields.io/badge/-D3.js-black?style=flat-square&logo=D3.js&link=https://github.com/francosbenitez/)
 
 😀 If you want to know more about me, you can visit [my personal website](http://francosbenitez.netlify.app). 
