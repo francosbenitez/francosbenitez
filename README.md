@@ -9,6 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/francosbenitez/)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-GREEN?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 I'm interested in web-based applications that communicate research results using interactive visualizations. I build web apps and tools for use in research and clinical environments. My favorite tools are R, R's Shiny app framework, React, D3, and more.
 
