@@ -4,7 +4,7 @@
 
 💻 Here, you'll find the code of my projects done using 
 
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R&link=https://github.com/francosbenitez/)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&link=https://github.com/francosbenitez/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/francosbenitez/)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
