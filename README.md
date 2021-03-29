@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/francosbenitez/)
 ![HTML](https://img.shields.io/badge/-HTML-ivory?style=flat-square&logo=HTML5&link=https://github.com/francosbenitez/)
 ![CSS](https://img.shields.io/badge/-CSS-GREEN?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React&link=https://github.com/francosbenitez/)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&link=https://github.com/francosbenitez/)
 ![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js&link=https://github.com/francosbenitez/)
 
 😀 If you want to know more about me, you can visit [my personal website](http://francosbenitez.netlify.app). 
