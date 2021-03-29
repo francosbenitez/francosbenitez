@@ -5,6 +5,7 @@
 💻 Here, you'll find the code of my projects done using the following 
 
 **Technologies**
+
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R&link=https://github.com/francosbenitez/)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&link=https://github.com/francosbenitez/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/francosbenitez/)
@@ -12,6 +13,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-success?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
 
 **Frameworks**
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&link=https://github.com/francosbenitez/)
 ![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js&link=https://github.com/francosbenitez/)
 ![D3](https://img.shields.io/badge/-D3.js-black?style=flat-square&logo=D3.js&link=https://github.com/francosbenitez/)
