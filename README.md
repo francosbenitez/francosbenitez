@@ -2,7 +2,7 @@
 
 📈 Early, my interest toward psychological science brought me to be interested in statistics, methodology, and programming. 
 
-💻 Here, you'll find the code of my projects done using, mainly,  
+💻 Here, you'll find the code of my projects done using  
 
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R&link=https://github.com/francosbenitez/)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&link=https://github.com/francosbenitez/)
