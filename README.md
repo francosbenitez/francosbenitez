@@ -10,6 +10,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-ivory?style=flat-square&logo=HTML5&link=https://github.com/francosbenitez/)
 ![CSS](https://img.shields.io/badge/-CSS-GREEN?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React&link=https://github.com/francosbenitez/)
-![Vue](https://img.shields.io/badge/-Vue-blue?style=flat-square&logo=Vue&link=https://github.com/francosbenitez/)
+![Vue](https://img.shields.io/badge/-Vue-red?style=flat-square&logo=Vue&link=https://github.com/francosbenitez/)
 
 😀 If you want to know more about me, you can visit [my personal website](http://francosbenitez.netlify.app). 
