@@ -11,6 +11,4 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-I'm interested in web-based applications that communicate research results using interactive visualizations. I build web apps and tools for use in research and clinical environments. My favorite tools are R, R's Shiny app framework, React, D3, and more.
-
 😀 If you want to know more about me, you can visit [my personal website](http://francosbenitez.netlify.app). 
