@@ -13,7 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/francosbenitez/)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5&link=https://github.com/francosbenitez/)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
-![SQL](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite&link=https://github.com/francosbenitez/)
 
 ***Frameworks***
 
