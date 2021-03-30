@@ -15,7 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
 ![SQL](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite&link=https://github.com/francosbenitez/)
 
-***Frameworks & Libraries***
+***Frameworks***
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&link=https://github.com/francosbenitez/)
 ![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js&link=https://github.com/francosbenitez/)
