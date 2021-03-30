@@ -8,11 +8,11 @@
 
 **Technologies**
 
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R&link=https://github.com/francosbenitez/)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&link=https://github.com/francosbenitez/)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R&link=https://github.com/francosbenitez/)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/francosbenitez/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/francosbenitez/)
-![HTML](https://img.shields.io/badge/-HTML-ivory?style=flat-square&logo=HTML5&link=https://github.com/francosbenitez/)
-![CSS](https://img.shields.io/badge/-CSS-success?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5&link=https://github.com/francosbenitez/)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
 
 **Frameworks**
 
