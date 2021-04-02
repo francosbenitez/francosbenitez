@@ -2,7 +2,7 @@
 
 📈 Early, my interest toward psychological science brought me to be interested in statistics, research, and programming. 
 
-🔍 Currently, my main interests revolve around the intersection among data analysis, design, and web development.  
+🔍 Currently, my main interests revolve around the intersection among data analysis, web development, and design.
 
 💻 Here, you'll find the code of my projects done using, mainly, 
 
