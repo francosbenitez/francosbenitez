@@ -14,7 +14,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5&link=https://github.com/francosbenitez/)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
 
-**Frameworks**
+**Frameworks & libraries**
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&link=https://github.com/francosbenitez/)
 ![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js&link=https://github.com/francosbenitez/)
