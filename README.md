@@ -20,6 +20,6 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js&link=https://github.com/francosbenitez/)
 ![D3](https://img.shields.io/badge/-D3.js-black?style=flat-square&logo=D3.js&link=https://github.com/francosbenitez/)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=Svelte&link=https://github.com/francosbenitez/)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap&link=https://github.com/francosbenitez/)
+![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=Bulmap&link=https://github.com/francosbenitez/)
 
 😀 If you want to know more about me, you can visit [my personal website](http://francosbenitez.netlify.app). 
