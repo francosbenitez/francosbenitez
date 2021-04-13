@@ -4,7 +4,7 @@
 
 🔍 Currently, my main interests revolve around the intersection of data analysis, web development, and UX/UI design.
 
-💻 Here, you'll find the code of my projects done using (mainly)
+💻 Here, you'll find the code of all my projects done using (mainly)
 
 *Technologies*
 
