@@ -22,4 +22,4 @@
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=Svelte&link=https://github.com/francosbenitez/)
 ![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=Bulma&link=https://github.com/francosbenitez/)
 
-😀 Check out my main projects on <a href="https://francosbenitez.github.io" target="_blank">my portfolio website</a>!
+😀 If you want to see my main projects, you can visit [my portfolio website](https://francosbenitez.github.io)!
