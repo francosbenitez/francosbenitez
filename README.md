@@ -12,4 +12,4 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5&link=https://github.com/francosbenitez/)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
 
-😀 If you want to see my main projects, you can visit [my portfolio website](https://francosbenitez.github.io)!
+💼 If you want to see my main projects, you can visit [my portfolio website](https://francosbenitez.github.io)!
