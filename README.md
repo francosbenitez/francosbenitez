@@ -15,5 +15,5 @@
 💼 If you want to see my main projects, you can visit [my portfolio website](https://francosbenitez.github.io)!
 
 ![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francosbenitez)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosbenitez&hide=scss,jupyter%20notebook&layout=compact&exclude_repo=website)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosbenitez&layout=compact&exclude_repo=website)](https://github.com/anuraghazra/github-readme-stats)
 
