@@ -1,4 +1,4 @@
-👋 Hi! I'm Franco, an advanced psychology student at the University of Buenos Aires (UBA).
+👋 Hi! I'm Franco, a developer and advanced psychology student at the University of Buenos Aires (UBA).
 
 👨🏻‍💻 Early, my interest toward psychological science brought me to be interested in statistics, research, and programming. 
 
