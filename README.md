@@ -12,7 +12,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5&link=https://github.com/francosbenitez/)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
 
-💼 If you want to see my main projects, you can visit [my portfolio website](https://francosbenitez.github.io)!
+💼 If you'd like to see my main projects, you can visit [my portfolio website](https://francosbenitez.github.io)!
 
 ![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francosbenitez)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosbenitez&layout=compact&exclude_repo=website)](https://github.com/anuraghazra/github-readme-stats)
