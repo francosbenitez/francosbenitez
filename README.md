@@ -8,7 +8,7 @@ Here on my GitHub, you'll find the code of all my projects done using (mainly)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5&link=https://github.com/francosbenitez/)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
 
-If you wish to see my main projects, you can visit [my portfolio website](https://francosbenitez.github.io)! Feel free to contact me via [email](francosbenitez@gmail.com). 
+If you wish to see my main projects, you can visit [my portfolio website](https://francosbenitez.github.io)! Feel free to contact me at francosbenitez@gmail.com. 
 
 ![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francosbenitez)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosbenitez&layout=compact&exclude_repo=website)](https://github.com/anuraghazra/github-readme-stats)
