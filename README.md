@@ -1,4 +1,4 @@
-👋 Hi, nice to meet you! My name is Franco. I am a programming enthusiast and an undergraduate student at the University of Buenos Aires finishing a licentiate degree in psychology. Early in my career, my interest toward psychological science brought me to be interested in statistics, research, and programming. Currently, my main interests revolve around data science, design, and web development.
+👋 Hi, nice to meet you! My name is Franco. I am an undergraduate student at the University of Buenos Aires finishing a licentiate degree in psychology. Early in my career, my interest toward psychological science brought me to be interested in statistics, research, and programming. Currently, my main interests revolve around data science, design, and web development.
 
 💻 Here on my GitHub, you'll find the code of all my projects done using (mainly)
 
