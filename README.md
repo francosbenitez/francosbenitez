@@ -8,7 +8,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5&link=https://github.com/francosbenitez/)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
 
-😄 You can learn more about me through [my personal website](https://francosbenitez.github.io). Feel free to contact me at francosbenitez@gmail.com.
+😄 You can learn more about me through [my personal website](https://francosbenitez.vercel.app/). Feel free to contact me at francosbenitez@gmail.com.
 
 ![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francosbenitez)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosbenitez&layout=compact&exclude_repo=website)](https://github.com/anuraghazra/github-readme-stats)
