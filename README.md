@@ -1,14 +1,10 @@
-👋 Hi, nice to meet you! My name is Franco. I am an undergraduate student at the University of Buenos Aires finishing a licentiate degree in psychology. Early in my career, my interest toward psychological science brought me to be interested in statistics, research, and programming. Currently, my main interests revolve around data science, design, and web development.
+👋 Hi there, I'm Franco Sebastián Benítez! I'm almost a psychologist who is passionate about data, design, and development. 
 
-💻 Here on my GitHub, you'll find the code of all my projects done using (mainly)
+🔬 Due to my great interest in psychological research, I began to program and, since then, I have not stopped learning. I love creating user-centric products and working in an interdisciplinary way.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/francosbenitez/)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/francosbenitez/)
-![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R&link=https://github.com/francosbenitez/)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5&link=https://github.com/francosbenitez/)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&link=https://github.com/francosbenitez/)
+🏃‍♂️ When I’m not staring at my computer, I like to get outside for a walk, run or bike ride. I also enjoy playing football! 
 
-😄 You can learn more about me through [my personal website](https://www.francosbenitez.com/). Feel free to contact me at francosbenitez@gmail.com.
+😄 You can learn more about me through [my personal website](https://www.francosbenitez.com/). Feel free to contact me at [francosbenitez@gmail.com](mailto:francosbenitez@gmail.com).
 
 ![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francosbenitez)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosbenitez&layout=compact&exclude_repo=website&langs_count=6&hide=scss,powershell)](https://github.com/anuraghazra/github-readme-stats)
