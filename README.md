@@ -1,4 +1,4 @@
-👋 Hi there, I'm Franco Sebastián Benítez! I'm an advanced psychology student who is passionate about data, design, and development. 
+👋 Hi there, I am Franco Sebastián Benítez! I am an advanced psychology student who is passionate about data, design, and development. 
 
 🔬 Due to my great interest in psychological research, I began to program and, since then, I have not stopped learning. I love creating user-centric products and working in an interdisciplinary way.
 
