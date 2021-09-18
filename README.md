@@ -1,6 +1,6 @@
 👋 Hi there, I'm Franco Sebastián Benítez! I'm an advanced psychology student passionate about data, design, and development. 
 
-🔬 Due to my great interest in psychological research, I began to program and, since then, I have not stopped learning. I love creating user-centric products and working in an interdisciplinary way.
+🔬 Due to my great interest in psychological research, I began to program and, since then, I have not stopped learning. I love creating user-centric products, as well as working in an interdisciplinary way.
 
 🏃‍♂️ When I’m not staring at my computer, I like to get outside for a walk, run or bike ride. I also enjoy playing football! 
 
