@@ -1,6 +1,6 @@
 👋 Hi there, I'm Franco Sebastián Benítez! I'm an Frontend Developer passionate about data, design, and development. I love making things which work well, look good and are easy-to-use for everyone.
 
-🏃‍♂️ When I’m not staring at my computer, I like to read science, practise calisthenics or play football! 
+📖 💪 ⚽️ When I’m not staring at my computer, I like to read science, practise calisthenics or play football! 
 
 😄 You can learn more about me through [my personal website](https://www.francosbenitez.com/). Feel free to contact me at [francosbenitez@gmail.com](mailto:francosbenitez@gmail.com).
 
