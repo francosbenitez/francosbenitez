@@ -4,7 +4,7 @@
 
 🛠 Currently, my main tech stack revolve around Vue, Boostrap, SASS, and Angular. 
 
-📖 When I’m not staring at my computer, I like reading science or practising calisthenics. I also enjoy playing football!
+📖 When I’m not staring at my computer, I like reading science or practicing calisthenics. I also enjoy playing football!
 
 😄 You can learn more about me through [my personal website](https://www.francosbenitez.com/). Feel free to contact me at [francosbenitez@gmail.com](mailto:francosbenitez@gmail.com).
 
