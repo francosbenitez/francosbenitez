@@ -1,4 +1,4 @@
-👋 Hi there, I'm Franco Sebastián Benítez! I'm an Frontend Developer passionate about development, design, and psychology. I love making things which work well, look good and are easy-to-use for everyone.
+👋 Hi there, I'm Franco Sebastián Benítez! I'm a Frontend Developer passionate about development, design, and psychology. I love making things which work well, look good and are easy-to-use for everyone.
 
 🛠 Currently, my main tech stack revolve around Vue, Bootstrap, SASS, and Angular. 
 
