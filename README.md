@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass&link=https://github.com/francosbenitez/)
 ![](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&link=https://github.com/francosbenitez/)
 
-📖 When I’m not staring at my computer, I like practicing calisthenics or playing football!
+⚽️ When I’m not staring at my computer, I like practicing calisthenics or playing football!
 
 😄 You can learn more about me through [my personal website](https://www.francosbenitez.com/). Feel free to contact me at [francosbenitez@gmail.com](mailto:francosbenitez@gmail.com).
 
