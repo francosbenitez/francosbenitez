@@ -3,9 +3,9 @@
 🛠 Currently, my main tech stack revolve around
 
 ![](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js&link=https://github.com/francosbenitez/)
+![](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vue.js&link=https://github.com/francosbenitez/)
 ![](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&link=https://github.com/francosbenitez/)
 ![](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass&link=https://github.com/francosbenitez/)
-![](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&link=https://github.com/francosbenitez/)
 
 ⚽️ When I’m not staring at my computer, I like practicing calisthenics or playing football!
 
