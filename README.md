@@ -1,5 +1,7 @@
 👋 Hi there, I'm Franco Sebastián Benítez! I'm a Frontend Developer passionate about development, design, and psychology. I love making things which work well, look good and are easy-to-use for everyone.
 
+👨‍💻 Along my psychology career and because of my great interest in scientific psychology, I started programming and I knew a world that I love. I love building software solutions to help people make their lifes much better and happier.
+
 🛠 Currently, my main tech stack revolve around
 
 ![](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js&link=https://github.com/francosbenitez/)
