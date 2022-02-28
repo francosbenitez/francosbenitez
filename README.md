@@ -1,6 +1,6 @@
 👋 Hi there, I am Franco Sebastián Benítez! I am a Frontend Developer passionate about development, design, and psychology. I love making things which work well, look good and are easy-to-use for everyone.
 
-👨‍💻 Throughout my psychology career and due to my great interest in scientific psychology, I started programming and found a world that I love. Since then, I have been loving creating software solutions which help people develop a product, an idea, or just a passion.
+👨‍💻 Along my psychology career and due to my great interest in scientific psychology, I started programming and found a world that I love. Since then, I have been loving creating software solutions which help people develop a product, an idea, or simply a passion.
 
 🛠 Currently, my main tech stack revolve around
 
