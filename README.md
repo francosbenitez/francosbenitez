@@ -2,12 +2,7 @@
 
 👨‍💻 Along my psychology career and due to my great interest in scientific psychology, I started programming and found a world that I love. Since then, I have been loving creating software solutions which help people develop a product, an idea, or simply a passion.
 
-🛠 Currently, my main tech stack revolve around
-
-![](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js&link=https://github.com/francosbenitez/)
-![](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vue.js&link=https://github.com/francosbenitez/)
-![](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&link=https://github.com/francosbenitez/)
-![](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass&link=https://github.com/francosbenitez/)
+🛠 Currently, my main tech stack revolve around Vue, Vuex, Bootstrap, and SASS. But I also enjoy working with React, Redux, Next, Nuxt, MySQL, Django, Flask, and Tailwind. 
 
 ⚽️ When I am not staring at my computer, I like practicing calisthenics or playing football!
 
