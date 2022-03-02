@@ -4,7 +4,7 @@ Along my psychology career and due to my great interest in scientific psychology
 
 Currently, my main tech stack revolve around Vue, Vuex, Bootstrap, and SASS. But I also enjoy working with React, Redux, Next, Nuxt, MySQL, Django, Node, Tailwind, and other stuff. 
 
-When I'm not staring at my computer, I like practicing calisthenics or playing football!
+When I'm not staring at my computer, I like practising calisthenics or playing football!
 
 You can learn more about me through [my personal website](https://www.francosbenitez.com/). Feel free to contact me at [francosbenitez@gmail.com](mailto:francosbenitez@gmail.com).
 
