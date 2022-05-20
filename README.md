@@ -2,7 +2,7 @@ Hi, nice to meet you! I'm a Frontend Developer passionate about development, des
 
 Along my psychology career and due to my great interest in scientific psychology, I started programming and found a world that I love. Since then, I have loved creating software solutions which help people develop a product, an idea, or simply a passion.
 
-Currently, my main tech stack revolve around Vue, Vuex, Bootstrap, and SASS. But I also enjoy working with React, Redux, Next, Nuxt, MySQL, Django, Node, and Tailwind.
+Currently, my main tech stack revolve around Vue, Vuex, Bootstrap, and SASS. But I also enjoy working with React, Redux, Next, Nuxt, MySQL, Django, Express, and Tailwind.
 
 When I'm not staring at my computer, I like practising calisthenics or playing football!
 
