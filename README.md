@@ -2,7 +2,12 @@ Hi, nice to meet you! I'm a Frontend Developer passionate about development, des
 
 Along my psychology career and due to my great interest in scientific psychology, I started programming and found a world that I love. Since then, I have loved creating software solutions which help people develop a product, an idea, or simply a passion.
 
-At work, I have used mainly technologies such as Vue, React, Next, Laravel, Bootstrap, Chakra, and SASS. But I also enjoy working with other tools such as TypeScript, Nuxt, Tailwind, Express, Django, MySQL, and PostgreSQL.
+Currently, my favorite tech stack revolves around:
+- JavaScript Frameworks: Next, React, Vue
+- Backend Frameworks/ORMs: Django, Express + Sequelize
+- Languages: TypeScript, JavaScript, Python, SCSS
+- CSS Frameworks: Tailwind, Chakra
+- DBs: MySQL, PostgreSQL
 
 When I'm not staring at my computer, I like practising calisthenics or playing football!
 
