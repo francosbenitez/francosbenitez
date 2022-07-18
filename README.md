@@ -2,7 +2,7 @@ Hi, nice to meet you! I'm a Frontend Developer passionate about development, des
 
 Along my psychology career and due to my great interest in scientific psychology, I started programming and found a world that I love. Since then, I have loved creating software solutions which help people develop a product, an idea, or simply a passion.
 
-Currently, my favorite tech stack revolves around:
+Currently, my favourite tech stack revolves around:
 - JavaScript Frameworks: Next, React, Vue
 - Backend Frameworks/ORMs: Django, Express + Sequelize
 - Languages: TypeScript, JavaScript, Python, SCSS
