@@ -7,7 +7,7 @@ Currently, my favourite tech stack revolves around:
 - Frontend Frameworks: Next, React, Vue
 - Backend Frameworks: Django, Express + Prisma
 - CSS Frameworks: Tailwind, Styled Components
-- Databases: MySQL, PostgreSQL
+- Databases: PostgreSQL, MySQL
 
 When I'm not staring at my computer, I like practising calisthenics or playing football!
 
