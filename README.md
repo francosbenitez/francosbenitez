@@ -4,10 +4,10 @@ Along my psychology career and due to my great interest in scientific psychology
 
 Currently, my favourite tech stack revolves around:
 - Languages: TypeScript, Python
-- Frontend Frameworks: Next, React, Vue
-- Backend Frameworks: Django, Express + Prisma
-- CSS Frameworks: Tailwind, Styled Components
-- Databases: PostgreSQL, MySQL
+- Frontend Frameworks: React + Next, Vue
+- Backend Frameworks: Express + Prisma, Django 
+- CSS Framework: Tailwind
+- Database: PostgreSQL
 
 When I'm not staring at my computer, I like practising calisthenics or playing football!
 
