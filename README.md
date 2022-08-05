@@ -6,8 +6,8 @@ Although I've had experience with different technologies (and I'm always open to
 - Languages: TypeScript, Python
 - Frontend Frameworks: React + Next, Vue
 - Backend Frameworks: Express + Prisma, Django 
-- CSS Framework: Tailwind, Styled Components
-- Database: PostgreSQL, MySQL
+- CSS Frameworks: Tailwind, Styled Components
+- Databases: PostgreSQL, MySQL
 
 When I'm not staring at my computer, I like practising calisthenics or playing football!
 
