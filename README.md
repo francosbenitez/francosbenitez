@@ -1,4 +1,4 @@
-Hi, nice to meet you! I'm a Full-stack Developer passionate about data, development, and psychology. I love making things which use data, work well and are easy-to-use for everyone.
+Hi, nice to meet you! I'm a Frontend Developer passionate about data, development, and psychology. I love making things which use data, work well and are easy-to-use for everyone.
 
 Along my psychology career and due to my great interest in scientific psychology, I started programming and found a world that I love. Since then, I have loved creating software solutions which help people develop a product, an idea, or simply a passion.
 
