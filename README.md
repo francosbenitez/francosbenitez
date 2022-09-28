@@ -7,7 +7,7 @@ Although I've had experience with different technologies (and I'm always open to
 - Frontend Frameworks: React + Next, Vue
 - Backend Frameworks: Express + Prisma, Django + DRF
 - CSS Framework: Tailwind
-- Databases: PostgreSQL, MySQL
+- Database: PostgreSQL
 
 When I'm not staring at my computer, I like practising calisthenics or playing football!
 
