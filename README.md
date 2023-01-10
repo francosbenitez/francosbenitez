@@ -6,7 +6,7 @@ Although I've had experience with different technologies (and I'm always open to
 - Languages: TypeScript, Python
 - Frontend Frameworks: React, Redux, Next
 - Backend Frameworks: Django, DRF
-- CSS Framework: Tailwind
+- CSS Framework: Tailwind, Material UI
 - Database: PostgreSQL
 
 When I'm not staring at my computer, I like practising calisthenics or playing football!
