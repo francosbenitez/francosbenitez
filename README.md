@@ -5,6 +5,7 @@ Along my psychology career and due to my great interest in scientific psychology
 Although I've had experience with different technologies (and I'm always open to learn new ones!), currently my favourite tech stack revolves around:
 - Languages: TypeScript, Python
 - Frontend Frameworks: React, Redux, Next
+- Mobile Frameworks: React Native, Expo
 - Backend Frameworks: Django, DRF
 - CSS Frameworks: Tailwind, Material UI
 - Database: PostgreSQL
