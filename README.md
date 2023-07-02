@@ -3,7 +3,7 @@ Hi, nice to meet you! I'm a Full-stack Developer passionate about data, developm
 Along my psychology career and due to my great interest in scientific psychology, I started programming and found a world that I love. Since then, I have loved creating software solutions which help people develop a product, an idea, or simply a passion.
 
 Although I've had experience with different technologies (and I'm always open to learn new ones!), currently my favourite tech stack revolves around:
-- Languages: TypeScript, Python
+- Languages: Python, JavaScript
 - Frontend Frameworks: React, Redux, Next
 - Mobile Frameworks: React Native, Expo
 - Backend Frameworks: Django, DRF
