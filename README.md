@@ -1,16 +1,4 @@
-Hi, nice to meet you! I'm a Backend Developer passionate about data, development, and psychology. I love making things which use data, work well, and are easy-to-use for everyone.
-
-Along my psychology career and due to my great interest in scientific psychology, I started programming and found a world that I love. Since then, I have loved creating software solutions which help people develop a product, an idea, or simply a passion.
-
-Although I've had experience with different technologies (and I'm always open to learn new ones!), currently my favourite tech stack revolves around:
-- Languages: Python, JavaScript
-- Backend Frameworks: Django, DRF
-- Database: PostgreSQL
-- Frontend Frameworks: React, Redux, Next
-- Mobile Frameworks: React Native, Expo
-- CSS Frameworks: Tailwind, Material UI
-
-When I'm not staring at my computer, I like practising calisthenics or playing football!
+Hello! I'm Franco, a dedicated Backend Developer passionate about software development, data, and psychology. I love making things which work well, use data, and are easy-to-use for everyone.
 
 You can learn more about me through [my personal website](https://www.francosbenitez.com/). Feel free to contact me at [me@francosbenitez.com](mailto:me@francosbenitez.com).
 
