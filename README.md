@@ -1,4 +1,4 @@
-Hello! I'm Franco, a dedicated Backend Developer passionate about software development, data, and psychology. I love making things which work well, use data, and are easy-to-use for everyone.
+ello! I'm Franco, a dedicated Backend Developer passionate about software development, data, and psychology. I enjoy creating solutions that work seamlessly, leverage data effectively, and are user-friendly for everyone.
 
 You can learn more about me through [my personal website](https://www.francosbenitez.com/). Feel free to contact me at [me@francosbenitez.com](mailto:me@francosbenitez.com).
 
